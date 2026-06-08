@@ -1,16 +1,50 @@
-## Hi there 👋
+# Olá, eu sou Kauã! 👋
 
-<!--
-**KauaCruzPereira/KauaCruzPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cursando técnico de informática, apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Cedup Diomicio Freitas - Informática
+- 💻 Cursando inglês em Yazigi escola para idiomas
+- 🎯 Virar desenvolvedor frontend, sempre aprimorando minhas habilidades
+
+---
+
+## 🛠️ Tecnologias
+
+### ✅ Já sei
+- [HTML5]
+- [CSS]
+- [TailwindCSS]
+- [Javascript]
+- [TypeScript]
+- [React]
+- [React-Native]
+- [PostgreSQL]
+
+### 📚 Estou aprimorando
+- [NextJs]
+- [TailwindCSS]
+
+### 🎯 Quero aprender
+- [Java]
+- [PHP]
+
+---
+
+## 📂 Projetos em destaque
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| [Nome] | [O que o projeto faz] | [link do repositório] |
+| [Nome] | [O que o projeto faz] | [link do repositório] |
+
+---
+
+## 📫 Contato
+
+- GitHub: [@KauaCruzPereira](https://github.com/KauaCruzPere)
+- LinkedIn: ["https://br.linkedin.com/in/kau%C3%A3-cruz-pereira"]
+- E-mail: ["kauacruzps@gmail.com"]
