@@ -34,17 +34,8 @@ Cursando técnico de informática, apaixonado por tecnologia.
 
 ---
 
-## 📂 Projetos em destaque
-
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| [Nome] | [O que o projeto faz] | [link do repositório] |
-| [Nome] | [O que o projeto faz] | [link do repositório] |
-
----
-
 ## 📫 Contato
 
 - GitHub: [@KauaCruzPereira](https://github.com/KauaCruzPere)
-- LinkedIn: ["https://br.linkedin.com/in/kau%C3%A3-cruz-pereira"]
-- E-mail: ["kauacruzps@gmail.com"]
+- LinkedIn: [https://br.linkedin.com/in/kau%C3%A3-cruz-pereira]
+- E-mail: [kauacruzps@gmail.com]
