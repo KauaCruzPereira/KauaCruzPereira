@@ -54,24 +54,6 @@
 
 
 
-## 📊 Estatísticas
-
-
-
-<p align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KauaCruzPereira&show_icons=true&theme=tokyonight" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaCruzPereira&layout=compact&theme=tokyonight" />
-
-</p>
-
-
-
----
-
-
-
 ## 🔥 Sequência de Contribuições
 
 
@@ -83,23 +65,6 @@
 </p>
 
 
-
----
-
-
-
-## 🏆 Conquistas
-
-
-
-<p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=KauaCruzPereira&theme=tokyonight&margin-w=15&margin-h=15" />
-
-</p>
-
-
-
 ---
 
 
@@ -108,16 +73,11 @@
 
 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kauacruzps@gmail.com)
-
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/KauaCruzPere)
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/kaua-cruz-pereira)
-
+<div>
+<a href = "mailto:kauacruzps@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kau%C3%A3-cruz-pereira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://github.com/KauaCruzPereira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
+</div>
 
 
 ---
