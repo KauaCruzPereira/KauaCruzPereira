@@ -1,39 +1,163 @@
+# Olá, eu sou Kauã Cruz 👋
 
-##  Sobre mim
 
-Olá, eu sou Kauã Cruz 👋
 
-💻 Desenvolvedor Frontend e Mobile em formação  
-🎓 Estudante de Técnico em Informática no Cedup Diomício Freitas  
-🚀 Sempre aprendendo novas tecnologias e buscando evoluir como desenvolvedor
+<p align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Mobile+Developer;React+%7C+React+Native+%7C+TypeScript;Sempre+aprendendo+novas+tecnologias" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=KauaCruzPere&label=Visualizações&color=0e75b6&style=flat" />
+
+</p>
+
+
 
 ---
+
+
+
+## 💻 Sobre Mim
+
+
+
+🎓 Estudante de Técnico em Informática no Cedup Diomício Freitas
+
+
+
+💻 Desenvolvedor Frontend e Mobile em formação
+
+
+
+🚀 Focado em desenvolvimento de aplicações Web e Mobile utilizando tecnologias modernas
+
+
+
+🎯 Objetivo: atuar profissionalmente como Desenvolvedor Front-end
+
+
+
+---
+
+
 
 ## 🚀 Tecnologias
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,postgres,git,github,vite" />
+
+</p>
+
+
 
 ---
+
+
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KauaCruzPere&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaCruzPere&layout=compact)
+
+<p align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KauaCruzPere&show_icons=true&theme=tokyonight" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaCruzPere&layout=compact&theme=tokyonight" />
+
+</p>
+
+
 
 ---
 
+
+
+## 🔥 Sequência de Contribuições
+
+
+
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=KauaCruzPere&theme=tokyonight" />
+
+</p>
+
+
+
+---
+
+
+
+## 🏆 Conquistas
+
+
+
+<p align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=KauaCruzPere&theme=tokyonight&margin-w=15&margin-h=15" />
+
+</p>
+
+
+
+---
+
+
+
 ## 📫 Contato
 
-- GitHub: :contentReference[oaicite:0]{index=0}
-- LinkedIn: :contentReference[oaicite:1]{index=1}
-- Email: kauacruzps@gmail.com
+
+
+<p align="center">
+
+  <a href="mailto:kauacruzps@gmail.com">
+
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  </a>
+
+
+
+  <a href="https://github.com/KauaCruzPere">
+
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+  </a>
+
+
+
+  <a href="https://linkedin.com/in/kaua-cruz-pereira">
+
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+  </a>
+
+</p>
+
+
+
+---
+
+
+
+<div align="center">
+
+
+
+### Obrigado pela visita! 🚀
+
+
+
+Sempre aberto para aprender, colaborar e desenvolver novos projetos.
+
+
+
+</div>
