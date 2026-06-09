@@ -4,15 +4,7 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Mobile+Developer;React+%7C+React+Native+%7C+TypeScript;Sempre+aprendendo+novas+tecnologias" />
-
-</p>
-
-
-
-<p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=KauaCruzPere&label=Visualizações&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=KauaCruzPereira&label=Visualizações&color=0e75b6&style=flat" />
 
 </p>
 
@@ -68,9 +60,9 @@
 
 <p align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KauaCruzPere&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KauaCruzPereira&show_icons=true&theme=tokyonight" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaCruzPere&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaCruzPereira&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -86,7 +78,7 @@
 
 <p align="center">
 
-  <img src="https://streak-stats.demolab.com?user=KauaCruzPere&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=KauaCruzPereira&theme=tokyonight" />
 
 </p>
 
@@ -102,7 +94,7 @@
 
 <p align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=KauaCruzPere&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KauaCruzPereira&theme=tokyonight&margin-w=15&margin-h=15" />
 
 </p>
 
@@ -116,31 +108,15 @@
 
 
 
-<p align="center">
-
-  <a href="mailto:kauacruzps@gmail.com">
-
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-  </a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kauacruzps@gmail.com)
 
 
 
-  <a href="https://github.com/KauaCruzPere">
-
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-  </a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/KauaCruzPere)
 
 
 
-  <a href="https://linkedin.com/in/kaua-cruz-pereira">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-  </a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/kaua-cruz-pereira)
 
 
 
