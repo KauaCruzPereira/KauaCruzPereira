@@ -39,28 +39,11 @@
 
 <div align="center">
 
-  <h3>🎨 Front-end</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite" />
-
-  <br><br>
-
-  <h3>⚙️ Back-end</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-
-  <br><br>
-
-  <h3>📱 Mobile</h3>
-  <img src="https://skillicons.dev/icons?i=react" />
-
-  <br><br>
-
-  <h3>🗄️ Banco de Dados</h3>
-  <img src="https://skillicons.dev/icons?i=postgres" />
-
-  <br><br>
-
-  <h3>🛠️ Ferramentas</h3>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts" />
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,vite" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 </div>
 
