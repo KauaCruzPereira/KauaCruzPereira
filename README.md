@@ -1,7 +1,7 @@
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-# Olá, eu sou Kauã Cruz 👋
+Olá, eu sou Kauã Cruz 👋
 
 💻 Desenvolvedor Frontend e Mobile em formação  
 🎓 Estudante de Técnico em Informática no Cedup Diomício Freitas  
